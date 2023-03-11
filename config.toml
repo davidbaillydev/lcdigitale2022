@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://lcdigitale.app'
 # languageCode = 'en-us'
 languageName = "Français"
 languageCode = "fr-fr"
