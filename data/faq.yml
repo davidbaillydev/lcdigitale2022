@@ -1,0 +1,20 @@
+---
+enable: true
+title: " Une réponse ! À vos question ?"
+faq:
+  - question: "Une agence de communication, c’est quoi ?"
+    answer: >
+            Jetons un coup d'œil à LC DIGITALE, une agence pas comme les autres ! Vous y trouverez l'expertise des plus grands : des services adaptés, un accompagnement et des supports créatifs, le tout à petit prix. Pour nous, une agence de communication est un partenaire de choix pour booster vos ventes. Vous voulez en savoir plus ? Parcourez nos pages et confiez-nous une mission pour atteindre rapidement vos objectifs !
+  - question: "Quels sont les différents types d’agences de communication ?"
+    answer: >
+            lc digitale est une marque de l'agence de communication lc digitale web agency. Ces deux agences proposent deux types d'accompagnement différents. Chez lc digitale, nos offres sont exclusivement personnalisées. Chez Lc digitale, nous propulsons votre entreprise avec des offres clés en main, idéales pour mettre un pied dans le monde de la communication.
+  - question: "Comment fonctionne votre agence ?"
+    answer: >
+            Lors de votre premier rendez-vous, vous avez l'occasion d'exprimer vos besoins et vos objectifs. Les solutions les plus adaptées vous sont proposées : il ne vous reste plus qu'à choisir ! Notre équipe remue alors ciel et terre pour faire décoller votre entreprise.
+  - question: "La communication, c’est fait pour moi ?"
+    answer: >
+            Vous souhaitez dynamiser votre activité ? Augmenter votre visibilité ? Garder le contact avec vos clients ou marquer les esprits avec une image professionnelle et unique ? La communication est faite pour vous. C'est aussi simple que cela. L'objectif numéro un de lc digitale : rendre tous les outils de communication accessibles à tous les professionnels. Il est temps d'embarquer.
+  - question: "Quels services offrez-vous ?"
+    answer: >
+            Nous avons conçu des offres clés en main pour vous permettre d'atteindre les étoiles et de créer votre propre univers. En fonction de vos besoins, vous pouvez également choisir des services à la carte : Référencement (Google Ads - SEA), site internet, réseaux sociaux, création graphique (logo, charte graphique, dépliants, brochures, flyers, cartes de visite). Enfin, tout est flexible pour s'adapter à vos envies.
+---

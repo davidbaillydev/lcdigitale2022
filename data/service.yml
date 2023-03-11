@@ -1,0 +1,46 @@
+---
+enable: true
+title: "Choisir Lc Digitale ??🥇"
+subtitle: >
+          Les indépendants et les petites entreprises devraient se lancer dans une découverte numérique avec une offre qui va révolutionner la création de sites web et la publicité.
+
+services:
+  - name: "largest Network"
+
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-view-grid"
+    image: "images/gallery/ordi.jpg"
+
+  - name: "All Sizes And Budget"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-infinite"
+    image: "images/gallery/objectif.jpg"
+  - name: "Dedicated Account Manager"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-help-alt"
+    image: "images/gallery/social.jpg"
+  - name: "Easy Payment"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-credit-card"
+    image: "images/gallery/money.jpg"
+  - name: "Dedicated Locker"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-lock"
+    image: "images/gallery/grap.jpg"
+  - name: "Personalization"
+    description: >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+    # icon: "ti-image"
+    image: "images/gallery/pub.jpg"
+---

@@ -1,0 +1,28 @@
+---
+enable: true
+title: "Nos offres et services certifiés💯"
+subtitle: >
+          Faites le premier pas, choisissez l'une de nos offres certifiées, nous l'adapterons à votre entreprise.
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Pack Visibilité "
+    soutitle :  Site internet 🖥️ + Hébergement🏠
+    description: >
+                
+                Assure ta présence en ligne avec un site internet, une image professionnelle et maintiens le lien avec tes clients.
+    price: 159
+    badge: Classique
+  - packcage: "Publicité Ads "
+    soutitle :  Google🚦 + Réseaux Sociaux🚀
+    description: >
+                Lance des campagnes publicitaires ciblées avec un budget maîtrisé.Retour sur investissement garanti !
+               
+    price: 99
+    badge: populaire
+  - packcage: "Pack Commerce "
+    soutitle : Pack Visibilité  🖥️ + Ecommerce🛍️
+    description: >
+                Lance ton activité sereinement en disposant des outils de communication et de vente professionnels, sur-mesure.
+    price: 209
+    badge: Hybride
+---

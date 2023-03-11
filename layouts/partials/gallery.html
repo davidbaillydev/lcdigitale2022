@@ -1,0 +1,36 @@
+{{with .Site.Data.gallery}}
+{{if .enable}}
+<section class="gallery" id="gallery">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-title">
+          <h2>{{ .title | safeHTML }}</h2>
+          <p>
+            {{.subtitle}}
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range .galleryImage }}
+        <div class="col-md-6">
+          <div class="gallery-item">
+            <a href="{{ .image | absURL }}" data-source="{{ .image | absURL }}"
+                title="Catalogue">
+                <!-- <a href="{{ .video | absURL }}" data-source="{{ .video | absURL }}"
+                title="Exibhition 01"> -->
+                <img src="{{ .image | absURL }}" alt="gallery-images">
+                <!-- <video width="550" controls  src="{{ .video | absURL }}" autoplay muted loop>  La vidéo ne se charge pas</video> -->
+
+            </a>
+            
+          </div>
+        </div>
+      {{end }}
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}

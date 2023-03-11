@@ -1,0 +1,18 @@
+---
+title : "Jetez un coup d'œil à notre catalogue 😎"
+enable: true
+subtitle: >
+       Chez LC DIGITALE, nous nous efforçons de dynamiser votre entreprise grâce à des solutions modernes de création de sites web et de communication clé en main, adaptées à tous les secteurs et proposées aux meilleurs prix du marché.
+
+
+galleryImage: 
+ - image: "images/gallery/gallery01.png"
+ - image: "images/gallery/gallery04.png"
+ - image: "images/gallery/gallery03.png"
+ - image: "images/gallery/gallery02.png"
+#  - video: "images/gallery/insta.mp4"
+#  - video: "images/gallery/ffc-burger.mp4"
+#  - video: "images/gallery/ffc-burger.mp4"
+#  - video: "images/gallery/ffc-burger.mp4"
+
+---
