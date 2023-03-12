@@ -5172,7 +5172,7 @@ button.mfp-close {
   justify-content: center;
 }
 .clients-slider-item img {
-  max-width: 110%;
+  max-width: 310px;
   margin: 0 auto;
   display: block;
 }

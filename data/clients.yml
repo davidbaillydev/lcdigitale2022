@@ -1,11 +1,11 @@
 ---
 enable: true
-title: "Nos Partenaires"
+title: "Nos Partenaires nous font confiances 😊"
 clients:
-  - image: "images/client/client1.png"
   - image: "images/client/client2.png"
+  - image: "images/client/client1.png"
   - image: "images/client/client3.png"
   - image: "images/client/client2.png"
   - image: "images/client/client1.png"
-  - image: "images/client/client2.png"
+  - image: "images/client/client3.png"
 ---

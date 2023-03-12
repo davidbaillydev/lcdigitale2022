@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lcDigitale - Agence Web 360°- Site Internet </title>
-    <link>/tags/</link>
+    <link>https://lcdigitale22.netlify.app/tags/</link>
     <description>Recent content in Tags on lcDigitale - Agence Web 360°- Site Internet </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate><atom:link href="https://lcdigitale22.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing</title>
-      <link>/tags/marketing/</link>
+      <link>https://lcdigitale22.netlify.app/tags/marketing/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
       
-      <guid>/tags/marketing/</guid>
+      <guid>https://lcdigitale22.netlify.app/tags/marketing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/tags/news/</link>
+      <link>https://lcdigitale22.netlify.app/tags/news/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://lcdigitale22.netlify.app/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Design</title>
-      <link>/tags/web-design/</link>
+      <link>https://lcdigitale22.netlify.app/tags/web-design/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
       
-      <guid>/tags/web-design/</guid>
+      <guid>https://lcdigitale22.netlify.app/tags/web-design/</guid>
       <description></description>
     </item>
     
