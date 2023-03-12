@@ -4,7 +4,7 @@
   overflow: hidden;
   text-align: center;
   background-color: #8080802e;
-  margin: 100px 0;
+  margin: 50px 0;
   @include desktop {
     margin-bottom: 50px;
   }
@@ -24,7 +24,7 @@
       align-items: center;
       justify-content: center;
       img {
-        max-width: 80%;
+        max-width: 110%;
         margin: 0 auto;
         display: block;
       }

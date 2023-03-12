@@ -1,11 +1,11 @@
 ---
 enable: true
-title: "Featured In"
+title: "Nos Partenaires"
 clients:
-  - image: "images/client/clients01.png"
-  - image: "images/client/clients02.png"
-  - image: "images/client/clients03.png"
-  - image: "images/client/clients01.png"
-  - image: "images/client/clients03.png"
-  - image: "images/client/clients02.png"
+  - image: "images/client/client1.png"
+  - image: "images/client/client2.png"
+  - image: "images/client/client3.png"
+  - image: "images/client/client2.png"
+  - image: "images/client/client1.png"
+  - image: "images/client/client2.png"
 ---

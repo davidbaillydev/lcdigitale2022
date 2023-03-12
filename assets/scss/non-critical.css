@@ -5143,7 +5143,7 @@ button.mfp-close {
   overflow: hidden;
   text-align: center;
   background-color: rgba(128, 128, 128, 0.1803921569);
-  margin: 100px 0;
+  margin: 50px 0;
 }
 @media (max-width: 991px) {
   .clients {
@@ -5172,7 +5172,7 @@ button.mfp-close {
   justify-content: center;
 }
 .clients-slider-item img {
-  max-width: 80%;
+  max-width: 110%;
   margin: 0 auto;
   display: block;
 }
