@@ -5,24 +5,22 @@ subtitle: >
           Les indépendants et les petites entreprises devraient se lancer dans une découverte numérique avec une offre qui va révolutionner la création de sites web et la publicité.
 
 services:
-  - name: "largest Network"
+  - name: "Un site internet N°1 💻 " 
 
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+             Référencé parmi les premiers résultats de Google Un atout essentiel pour la croissance de votre entreprise, créez et générez du trafic sur votre site web pour devenir la référence dans votre domaine.
     # icon: "ti-view-grid"
     image: "images/gallery/ordi.jpg"
 
-  - name: "All Sizes And Budget"
+  - name: "Une publicité sur Google 📣"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                Obtenez un maximum de visiteurs qualifiés grâce à la publicité Google ADS Organisez des campagnes publicitaires ciblées avec un budget contrôlé. Retour sur investissement garanti !
     # icon: "ti-infinite"
     image: "images/gallery/objectif.jpg"
-  - name: "Dedicated Account Manager"
+  - name: "Réseaux Sociaux ❤️"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+               Développez votre marque sur Facebook, Instagram, Snapchat et gagnez de nouveaux clients.
+                Fidélisez votre communauté, créez des opportunités et gagnez des abonnés.
     # icon: "ti-help-alt"
     image: "images/gallery/social.jpg"
   - name: "Easy Payment"
@@ -31,10 +29,9 @@ services:
                 Dicta maxime ullam quos sapiente eveniet odio accusamus.
     # icon: "ti-credit-card"
     image: "images/gallery/money.jpg"
-  - name: "Dedicated Locker"
+  - name: "création graphique unique"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                La réalisation du logo et de tous vos supports, Carte de visite, Brochure, Flyer, Site internet, visuel Réseaux sociaux et dynamique menuboard TV.
     # icon: "ti-lock"
     image: "images/gallery/grap.jpg"
   - name: "Personalization"

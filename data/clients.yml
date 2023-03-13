@@ -8,4 +8,5 @@ clients:
   - image: "images/client/client4.png"
   - image: "images/client/client1.png"
   - image: "images/client/client3.png"
+  - image: "images/client/client4.png"
 ---
