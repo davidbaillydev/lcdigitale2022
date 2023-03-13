@@ -17,16 +17,15 @@ services:
                 Obtenez un maximum de visiteurs qualifiés grâce à la publicité Google ADS Organisez des campagnes publicitaires ciblées avec un budget contrôlé. Retour sur investissement garanti !
     # icon: "ti-infinite"
     image: "images/gallery/objectif.jpg"
-  - name: "Réseaux Sociaux ❤️"
+  - name: "Vos Réseaux Sociaux ❤️"
     description: >
                Développez votre marque sur Facebook, Instagram, Snapchat et gagnez de nouveaux clients.
                 Fidélisez votre communauté, créez des opportunités et gagnez des abonnés.
     # icon: "ti-help-alt"
     image: "images/gallery/social.jpg"
-  - name: "Easy Payment"
+  - name: "Une boutique en ligne 🛍️"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                Faites décoller votre chiffre d'affaires avec nos solutions de site E-commerce vendez vos produits sur un site 100% sur-mesure quelle que soit votre activité.
     # icon: "ti-credit-card"
     image: "images/gallery/money.jpg"
   - name: "création graphique unique"
@@ -34,7 +33,7 @@ services:
                 La réalisation du logo et de tous vos supports, Carte de visite, Brochure, Flyer, Site internet, visuel Réseaux sociaux et dynamique menuboard TV.
     # icon: "ti-lock"
     image: "images/gallery/grap.jpg"
-  - name: "Personalization"
+  - name: "Digitaliser "
     description: >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
                 Dicta maxime ullam quos sapiente eveniet odio accusamus.
