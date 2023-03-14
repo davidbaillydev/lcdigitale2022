@@ -1,7 +1,7 @@
 ---
 title: "World Most Famous App Developers"
 date: 2022-01-06T11:18:56+06:00
-featureImage: images/blog/blog-feature.jpg
+featureImage: images/gallery/gallery06.png
 tags: ["Marketing", "News"]
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?

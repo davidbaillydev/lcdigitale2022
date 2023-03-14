@@ -25,18 +25,17 @@ services:
     image: "images/gallery/social.jpg"
   - name: "Une boutique en ligne 🛍️"
     description: >
-                Faites décoller votre chiffre d'affaires avec nos solutions de site E-commerce vendez vos produits sur un site 100% sur-mesure quelle que soit votre activité.
+                Faites décoller votre chiffre d'affaires avec nos solutions de site E-commerce vendez vos produits sur un site 100% sur-mesure avec tableau de bord intégré quelle que soit votre activité.
     # icon: "ti-credit-card"
     image: "images/gallery/money.jpg"
   - name: "création graphique unique"
     description: >
-                La réalisation du logo et de tous vos supports, Carte de visite, Brochure, Flyer, Site internet, visuel Réseaux sociaux et dynamique menuboard TV.
+                La réalisation du logo et de tous vos supports, Carte de visite, Brochure, Flyer, Site internet, visuel Réseaux sociaux et menuboard TV dynamique digtal signage technology.
     # icon: "ti-lock"
     image: "images/gallery/grap.jpg"
-  - name: "Digitaliser "
+  - name: "Digitalise ton entreprise 🚀"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                 Quel que soit votre projet : restaurant, dark kitchen, indépendant, entreprise, franchise, marque, etc. lc digitale, transforme votre entreprise en fonction de vos besoins.
     # icon: "ti-image"
     image: "images/gallery/pub.jpg"
 ---
